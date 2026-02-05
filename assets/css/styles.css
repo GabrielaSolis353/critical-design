@@ -7,3 +7,9 @@
 body {
 	background-color: dodger blue;
 }
+
+.container {
+	width: 500px;
+	margin: 50px auto;
+	text-align: center;
+}
